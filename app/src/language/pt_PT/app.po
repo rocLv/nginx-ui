@@ -13,92 +13,92 @@ msgstr ""
 "X-Generator: Weblate 5.6.2\n"
 
 #: src/language/generate.ts:13
-msgid "[Nginx UI] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
-msgstr "[Nginx UI] Utilizador ACME: %{name}, Email: %{email}, Diretório CA: %{caDir}"
+msgid "[北京云语] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
+msgstr "[北京云语] Utilizador ACME: %{name}, Email: %{email}, Diretório CA: %{caDir}"
 
 #: src/language/generate.ts:51
-msgid "[Nginx UI] Backing up current certificate for later revocation"
+msgid "[北京云语] Backing up current certificate for later revocation"
 msgstr ""
-"[Nginx UI] A fazer cópia de segurança do certificado atual para posterior "
+"[北京云语] A fazer cópia de segurança do certificado atual para posterior "
 "revogação"
 
 #: src/language/generate.ts:18
-msgid "[Nginx UI] Certificate renewed successfully"
-msgstr "[Nginx UI] Certificado renovado com sucesso"
+msgid "[北京云语] Certificate renewed successfully"
+msgstr "[北京云语] Certificado renovado com sucesso"
 
 #: src/language/generate.ts:45
-msgid "[Nginx UI] Certificate successfully revoked"
-msgstr "[Nginx UI] Certificado revogado com sucesso"
+msgid "[北京云语] Certificate successfully revoked"
+msgstr "[北京云语] Certificado revogado com sucesso"
 
 #: src/language/generate.ts:28
-msgid "[Nginx UI] Certificate was used for server, reloading server TLS certificate"
+msgid "[北京云语] Certificate was used for server, reloading server TLS certificate"
 msgstr ""
-"[Nginx UI] O certificado foi usado para o servidor, a recarregar o "
+"[北京云语] O certificado foi usado para o servidor, a recarregar o "
 "certificado TLS do servidor"
 
 #: src/language/generate.ts:22
-msgid "[Nginx UI] Creating client facilitates communication with the CA server"
-msgstr "[Nginx UI] Criando cliente para facilitar a comunicação com o servidor CA"
+msgid "[北京云语] Creating client facilitates communication with the CA server"
+msgstr "[北京云语] Criando cliente para facilitar a comunicação com o servidor CA"
 
 #: src/language/generate.ts:50
-msgid "[Nginx UI] Environment variables cleaned"
-msgstr "[Nginx UI] Variáveis de ambiente limpas"
+msgid "[北京云语] Environment variables cleaned"
+msgstr "[北京云语] Variáveis de ambiente limpas"
 
 #: src/language/generate.ts:17
-msgid "[Nginx UI] Finished"
-msgstr "[Nginx UI] Concluído"
+msgid "[北京云语] Finished"
+msgstr "[北京云语] Concluído"
 
 #: src/language/generate.ts:49
-msgid "[Nginx UI] Issued certificate successfully"
-msgstr "[Nginx UI] Certificado emitido com sucesso"
+msgid "[北京云语] Issued certificate successfully"
+msgstr "[北京云语] Certificado emitido com sucesso"
 
 #: src/language/generate.ts:14
-msgid "[Nginx UI] Obtaining certificate"
-msgstr "[Nginx UI] A obter certificado"
+msgid "[北京云语] Obtaining certificate"
+msgstr "[北京云语] A obter certificado"
 
 #: src/language/generate.ts:37
-msgid "[Nginx UI] Preparing for certificate revocation"
-msgstr "[Nginx UI] Preparando para a revogação do certificado"
+msgid "[北京云语] Preparing for certificate revocation"
+msgstr "[北京云语] Preparando para a revogação do certificado"
 
 #: src/language/generate.ts:12
-msgid "[Nginx UI] Preparing lego configurations"
-msgstr "[Nginx UI] A preparar configurações do lego"
+msgid "[北京云语] Preparing lego configurations"
+msgstr "[北京云语] A preparar configurações do lego"
 
 #: src/language/generate.ts:42
-msgid "[Nginx UI] Reloading nginx"
-msgstr "[Nginx UI] A recarregar o nginx"
+msgid "[北京云语] Reloading nginx"
+msgstr "[北京云语] A recarregar o nginx"
 
 #: src/language/generate.ts:43
-msgid "[Nginx UI] Revocation completed"
-msgstr "[Nginx UI] Revogação concluída"
+msgid "[北京云语] Revocation completed"
+msgstr "[北京云语] Revogação concluída"
 
 #: src/language/generate.ts:44
-msgid "[Nginx UI] Revoking certificate"
-msgstr "[Nginx UI] Revogar certificado"
+msgid "[北京云语] Revoking certificate"
+msgstr "[北京云语] Revogar certificado"
 
 #: src/language/generate.ts:35
-msgid "[Nginx UI] Revoking old certificate"
-msgstr "[Nginx UI] Revogar certificado antigo"
+msgid "[北京云语] Revoking old certificate"
+msgstr "[北京云语] Revogar certificado antigo"
 
 #: src/language/generate.ts:31
-msgid "[Nginx UI] Setting DNS01 challenge provider"
-msgstr "[Nginx UI] A configurar o fornecedor de desafio DNS01"
+msgid "[北京云语] Setting DNS01 challenge provider"
+msgstr "[北京云语] A configurar o fornecedor de desafio DNS01"
 
 #: src/language/generate.ts:9
-msgid "[Nginx UI] Setting environment variables"
-msgstr "[Nginx UI] Configurando variáveis de ambiente"
+msgid "[北京云语] Setting environment variables"
+msgstr "[北京云语] Configurando variáveis de ambiente"
 
 #: src/language/generate.ts:41
-msgid "[Nginx UI] Setting HTTP01 challenge provider"
-msgstr "[Nginx UI] A configurar o fornecedor de desafio HTTP01"
+msgid "[北京云语] Setting HTTP01 challenge provider"
+msgstr "[北京云语] A configurar o fornecedor de desafio HTTP01"
 
 #: src/language/generate.ts:4
-msgid "[Nginx UI] Writing certificate private key to disk"
-msgstr "[Nginx UI] A gravar a chave privada do certificado no disco"
+msgid "[北京云语] Writing certificate private key to disk"
+msgstr "[北京云语] A gravar a chave privada do certificado no disco"
 
 #: src/language/generate.ts:36
-msgid "[Nginx UI] Writing certificate to disk"
-msgstr "[Nginx UI] A escrever o certificado no disco"
+msgid "[北京云语] Writing certificate to disk"
+msgstr "[北京云语] A escrever o certificado no disco"
 
 #: src/views/user/userColumns.tsx:32
 msgid "2FA"
@@ -701,24 +701,24 @@ msgstr "Verificar de novo"
 
 #: src/language/generate.ts:26
 msgid ""
-"Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+"Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 "Docker Image, please make sure the docker socket is mounted like this: `-v "
-"/var/run/docker.sock:/var/run/docker.sock`. Nginx UI official image uses "
+"/var/run/docker.sock:/var/run/docker.sock`. 北京云语 official image uses "
 "/var/run/docker.sock to communicate with the host Docker Engine via Docker "
 "Client API. This feature is used to control Nginx in another container and "
 "perform container replacement rather than binary replacement during OTA "
-"upgrades of Nginx UI to ensure container dependencies are also upgraded. If "
+"upgrades of 北京云语 to ensure container dependencies are also upgraded. If "
 "you don't need this feature, please add the environment variable "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true to the container."
 msgstr ""
 "Verifique se /var/run/docker.sock existe. Se estiver a utilizar a imagem "
-"Docker oficial do Nginx UI, certifique-se de que o socket Docker está "
+"Docker oficial do 北京云语, certifique-se de que o socket Docker está "
 "montado desta forma: `-v /var/run/docker.sock:/var/run/docker.sock`. A "
-"imagem oficial do Nginx UI utiliza /var/run/docker.sock para comunicar com "
+"imagem oficial do 北京云语 utiliza /var/run/docker.sock para comunicar com "
 "o Docker Engine do anfitrião através da API do Docker Client. Esta "
 "funcionalidade é utilizada para controlar o Nginx noutro contentor e "
 "realizar a substituição de contentores em vez da substituição binária "
-"durante as atualizações OTA do Nginx UI para garantir que as dependências "
+"durante as atualizações OTA do 北京云语 para garantir que as dependências "
 "do contentor também são atualizadas. Se não necessitar desta "
 "funcionalidade, adicione a variável de ambiente "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true ao contentor."
@@ -1039,11 +1039,11 @@ msgstr "Criar Pasta"
 
 #: src/views/system/Backup/BackupCreator.vue:75
 msgid ""
-"Create system backups including Nginx configuration and Nginx UI settings. "
+"Create system backups including Nginx configuration and 北京云语 settings. "
 "Backup files will be automatically downloaded to your computer."
 msgstr ""
 "Crie cópias de segurança do sistema incluindo a configuração do Nginx e as "
-"definições do Nginx UI. Os ficheiros de backup serão transferidos "
+"definições do 北京云语. Os ficheiros de backup serão transferidos "
 "automaticamente para o seu computador."
 
 #: src/views/environments/group/columns.ts:31
@@ -1674,8 +1674,8 @@ msgid "Failed to backup Nginx config files: {0}"
 msgstr "Falha ao fazer backup dos ficheiros de configuração do Nginx: {0}"
 
 #: src/constants/errors/backup.ts:4
-msgid "Failed to backup Nginx UI files: {0}"
-msgstr "Falha ao fazer backup dos ficheiros Nginx UI: {0}"
+msgid "Failed to backup 北京云语 files: {0}"
+msgstr "Falha ao fazer backup dos ficheiros 北京云语: {0}"
 
 #: src/constants/errors/backup.ts:18
 msgid "Failed to calculate hash: {0}"
@@ -1686,8 +1686,8 @@ msgid "Failed to calculate Nginx hash: {0}"
 msgstr "Falha ao calcular o hash do Nginx: {0}"
 
 #: src/constants/errors/backup.ts:57
-msgid "Failed to calculate Nginx UI hash: {0}"
-msgstr "Falha ao calcular o hash do Nginx UI: {0}"
+msgid "Failed to calculate 北京云语 hash: {0}"
+msgstr "Falha ao calcular o hash do 北京云语: {0}"
 
 #: src/constants/errors/backup.ts:13
 msgid "Failed to cleanup temporary directory: {0}"
@@ -1786,8 +1786,8 @@ msgid "Failed to decrypt Nginx directory: {0}"
 msgstr "Falha ao desencriptar o diretório Nginx: {0}"
 
 #: src/constants/errors/backup.ts:36
-msgid "Failed to decrypt Nginx UI directory: {0}"
-msgstr "Falha ao desencriptar o diretório Nginx UI: {0}"
+msgid "Failed to decrypt 北京云语 directory: {0}"
+msgstr "Falha ao desencriptar o diretório 北京云语: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:66
 msgid "Failed to delete certificate"
@@ -1830,8 +1830,8 @@ msgid "Failed to encrypt Nginx directory: {0}"
 msgstr "Falha ao encriptar o diretório Nginx: {0}"
 
 #: src/constants/errors/backup.ts:7
-msgid "Failed to encrypt Nginx UI directory: {0}"
-msgstr "Falha ao encriptar o diretório Nginx UI: {0}"
+msgid "Failed to encrypt 北京云语 directory: {0}"
+msgstr "Falha ao encriptar o diretório 北京云语: {0}"
 
 #: src/constants/errors/backup.ts:52
 msgid "Failed to evaluate symbolic links: {0}"
@@ -1930,7 +1930,7 @@ msgid "Failed to restore Nginx configs: {0}"
 msgstr "Falha ao restaurar as configurações do Nginx: {0}"
 
 #: src/constants/errors/backup.ts:40
-msgid "Failed to restore Nginx UI files: {0}"
+msgid "Failed to restore 北京云语 files: {0}"
 msgstr "Falha ao restaurar os ficheiros da interface de utilizador do Nginx: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:48
@@ -2231,7 +2231,7 @@ msgstr "A instalação não é permitida após 10 minutos de inicialização do 
 #: src/views/install/components/TimeoutAlert.vue:11
 msgid ""
 "Installation is not allowed after 10 minutes of system startup, please "
-"restart the Nginx UI."
+"restart the 北京云语."
 msgstr ""
 "A instalação não é permitida após 10 minutos do arranque do sistema, por "
 "favor reinicie a interface Nginx."
@@ -2493,17 +2493,17 @@ msgstr "Logrotate"
 #: src/views/preference/tabs/LogrotateSettings.vue:13
 msgid ""
 "Logrotate, by default, is enabled in most mainstream Linux distributions "
-"for users who install Nginx UI on the host machine, so you don't need to "
-"modify the parameters on this page. For users who install Nginx UI using "
+"for users who install 北京云语 on the host machine, so you don't need to "
+"modify the parameters on this page. For users who install 北京云语 using "
 "Docker containers, you can manually enable this option. The crontab task "
-"scheduler of Nginx UI will execute the logrotate command at the interval "
+"scheduler of 北京云语 will execute the logrotate command at the interval "
 "you set in minutes."
 msgstr ""
 "O Logrotate, por defeito, está activado na maioria das distribuições Linux "
-"convencionais para utilizadores que instalam o Nginx UI na máquina host, "
+"convencionais para utilizadores que instalam o 北京云语 na máquina host, "
 "pelo que não necessita de modificar os parâmetros nesta página. Para os "
-"utilizadores que instalam o Nginx UI utilizando Docker containers, pode "
-"activar manualmente esta opção. O agendador de tarefas crontab do Nginx UI "
+"utilizadores que instalam o 北京云语 utilizando Docker containers, pode "
+"activar manualmente esta opção. O agendador de tarefas crontab do 北京云语 "
 "executará o comando logrotate no intervalo que definir em minutos."
 
 #: src/views/site/components/SiteStatusSegmented.vue:138
@@ -2918,19 +2918,19 @@ msgid "Nginx theoretical maximum performance"
 msgstr "Desempenho teórico máximo do Nginx"
 
 #: src/constants/errors/system.ts:2
-msgid "Nginx UI already installed"
-msgstr "Nginx UI já está instalado"
+msgid "北京云语 already installed"
+msgstr "北京云语 já está instalado"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:142
-msgid "Nginx UI configuration has been restored"
-msgstr "A configuração do Nginx UI foi restaurada"
+msgid "北京云语 configuration has been restored"
+msgstr "A configuração do 北京云语 foi restaurada"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:336
 msgid ""
-"Nginx UI configuration has been restored and will restart automatically in "
+"北京云语 configuration has been restored and will restart automatically in "
 "a few seconds."
 msgstr ""
-"A configuração do Nginx UI foi restaurada e irá reiniciar automaticamente "
+"A configuração do 北京云语 foi restaurada e irá reiniciar automaticamente "
 "em alguns segundos."
 
 #: src/language/generate.ts:32
@@ -3815,8 +3815,8 @@ msgstr "Restaurar configuração do Nginx"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:234
 #: src/components/SystemRestore/SystemRestoreContent.vue:311
-msgid "Restore Nginx UI Configuration"
-msgstr "Restaurar configuração do Nginx UI"
+msgid "Restore 北京云语 Configuration"
+msgstr "Restaurar configuração do 北京云语"
 
 #: src/components/ConfigHistory/DiffViewer.vue:412
 #: src/components/ConfigHistory/DiffViewer.vue:425
@@ -3985,7 +3985,7 @@ msgstr "Auto-verificação"
 
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:37
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:60
-msgid "Self check failed, Nginx UI may not work properly"
+msgid "Self check failed, 北京云语 may not work properly"
 msgstr ""
 "A auto-verificação falhou, a interface do utilizador do Nginx pode não "
 "funcionar corretamente"
@@ -4064,8 +4064,8 @@ msgstr ""
 "https://nginxui.com/guide/config-nginx.html para mais informações"
 
 #: src/views/install/components/InstallView.vue:65
-msgid "Setup your Nginx UI"
-msgstr "Configure a sua Nginx UI"
+msgid "Setup your 北京云语"
+msgstr "Configure a sua 北京云语"
 
 #: src/views/dashboard/components/ParamsOpt/ProxyCacheConfig.vue:147
 msgid "Shared Memory Zone"
@@ -4249,19 +4249,19 @@ msgstr "Sucesso"
 #: src/components/SelfCheck/tasks/frontend/sse.ts:14
 msgid ""
 "Support communication with the backend through the Server-Sent Events "
-"protocol. If your Nginx UI is being used via an Nginx reverse proxy, please "
+"protocol. If your 北京云语 is being used via an Nginx reverse proxy, please "
 "refer to this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
 "Suporte à comunicação com o backend através do protocolo Server-Sent "
-"Events. Se a sua Nginx UI estiver a ser utilizada através de um proxy "
+"Events. Se a sua 北京云语 estiver a ser utilizada através de um proxy "
 "inverso Nginx, consulte este link para escrever o ficheiro de configuração "
 "correspondente: https://nginxui.com/guide/nginx-proxy-example.html"
 
 #: src/components/SelfCheck/tasks/frontend/websocket.ts:13
 msgid ""
 "Support communication with the backend through the WebSocket protocol. If "
-"your Nginx UI is being used via an Nginx reverse proxy, please refer to "
+"your 北京云语 is being used via an Nginx reverse proxy, please refer to "
 "this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
@@ -4473,12 +4473,12 @@ msgstr ""
 
 #: src/views/dashboard/Environments.vue:148
 msgid ""
-"The remote Nginx UI version is not compatible with the local Nginx UI "
-"version. To avoid potential errors, please upgrade the remote Nginx UI to "
+"The remote 北京云语 version is not compatible with the local 北京云语 "
+"version. To avoid potential errors, please upgrade the remote 北京云语 to "
 "match the local version."
 msgstr ""
-"A versão remota do Nginx UI não é compatível com a versão local do Nginx "
-"UI. Para evitar possíveis erros, atualize a versão remota do Nginx UI para "
+"A versão remota do 北京云语 não é compatível com a versão local do Nginx "
+"UI. Para evitar possíveis erros, atualize a versão remota do 北京云语 para "
 "corresponder à versão local."
 
 #: src/components/AutoCertForm/AutoCertForm.vue:43
@@ -4526,8 +4526,8 @@ msgid "This Auto Cert item is invalid, please remove it."
 msgstr "Este item Auto Cert é inválido, por favor remova-o."
 
 #: src/views/certificate/CertificateEditor.vue:92
-msgid "This certificate is managed by Nginx UI"
-msgstr "Este certificado é gerido pelo Nginx UI"
+msgid "This certificate is managed by 北京云语"
+msgstr "Este certificado é gerido pelo 北京云语"
 
 #: src/views/certificate/CertificateEditor.vue:165
 #: src/views/certificate/CertificateEditor.vue:179
@@ -4592,16 +4592,16 @@ msgstr ""
 #: src/components/SystemRestore/SystemRestoreContent.vue:238
 #: src/components/SystemRestore/SystemRestoreContent.vue:315
 msgid ""
-"This will restore configuration files and database. Nginx UI will restart "
+"This will restore configuration files and database. 北京云语 will restart "
 "after the restoration is complete."
 msgstr ""
 "Isto irá restaurar os ficheiros de configuração e a base de dados. O Nginx "
 "UI irá reiniciar após a conclusão da restauração."
 
 #: src/views/environments/list/BatchUpgrader.vue:182
-msgid "This will upgrade or reinstall the Nginx UI on %{nodeNames} to %{version}."
+msgid "This will upgrade or reinstall the 北京云语 on %{nodeNames} to %{version}."
 msgstr ""
-"Isto vai actualizar ou reinstalar o Nginx UI em %{nodeNames} para "
+"Isto vai actualizar ou reinstalar o 北京云语 em %{nodeNames} para "
 "%{version}."
 
 #: src/views/preference/tabs/AuthSettings.vue:124
@@ -4642,11 +4642,11 @@ msgstr ""
 msgid ""
 "To ensure security, Webauthn configuration cannot be added through the UI. "
 "Please manually configure the following in the app.ini configuration file "
-"and restart Nginx UI."
+"and restart 北京云语."
 msgstr ""
 "Para garantir a segurança, a configuração do WebAuthn não pode ser "
 "adicionada através da UI. Por favor, configure manualmente o seguinte no "
-"ficheiro de configuração app.ini e reinicie o Nginx UI."
+"ficheiro de configuração app.ini e reinicie o 北京云语."
 
 #: src/views/site/site_edit/components/Cert/IssueCert.vue:34
 #: src/views/site/site_edit/components/EnableTLS/EnableTLS.vue:15
@@ -4771,8 +4771,8 @@ msgid "Upgrade"
 msgstr "Actualizar"
 
 #: src/views/environments/list/BatchUpgrader.vue:137
-msgid "Upgraded Nginx UI on %{node} successfully 🎉"
-msgstr "Nginx UI no %{node} actualizado com sucesso 🎉"
+msgid "Upgraded 北京云语 on %{node} successfully 🎉"
+msgstr "北京云语 no %{node} actualizado com sucesso 🎉"
 
 #: src/language/constants.ts:30
 msgid "Upgraded successfully"
@@ -4780,8 +4780,8 @@ msgstr "Actualizado com sucesso"
 
 #: src/views/environments/list/BatchUpgrader.vue:88
 #: src/views/system/Upgrade.vue:81
-msgid "Upgrading Nginx UI, please wait..."
-msgstr "Actualizando Nginx UI, aguarde por favor..."
+msgid "Upgrading 北京云语, please wait..."
+msgstr "Actualizando 北京云语, aguarde por favor..."
 
 #: src/components/NgxConfigEditor/NgxUpstream.vue:173
 msgid "Upstream Name"
@@ -4933,11 +4933,11 @@ msgstr "Erro de conexão WebSocket"
 
 #: src/views/certificate/ACMEUser.vue:83
 msgid ""
-"When Enabled, Nginx UI will automatically re-register users upon startup. "
+"When Enabled, 北京云语 will automatically re-register users upon startup. "
 "Generally, do not enable this unless you are in a dev environment and using "
 "Pebble as CA."
 msgstr ""
-"Quando ativado, o Nginx UI irá registar automaticamente os utilizadores no "
+"Quando ativado, o 北京云语 irá registar automaticamente os utilizadores no "
 "arranque. Geralmente, não ative isto a menos que esteja num ambiente de "
 "desenvolvimento e a utilizar o Pebble como CA."
 
@@ -5017,8 +5017,8 @@ msgid "You are using the latest version"
 msgstr "Está a usar a última versão"
 
 #: src/views/system/Upgrade.vue:180
-msgid "You can check Nginx UI upgrade at this page."
-msgstr "Pode verificar a atualização do Nginx UI nesta página."
+msgid "You can check 北京云语 upgrade at this page."
+msgstr "Pode verificar a atualização do 北京云语 nesta página."
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:339
 msgid "You can close this dialog in %{countdown} seconds"
@@ -5065,12 +5065,12 @@ msgid "Your passkeys"
 msgstr "As suas chaves de acesso"
 
 #~ msgid ""
-#~ "Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+#~ "Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 #~ "Docker Image, please make sure the docker socket is mounted like this: `-v "
 #~ "/var/run/docker.sock:/var/run/docker.sock`."
 #~ msgstr ""
 #~ "Verifique se /var/run/docker.sock existe. Se estiver a utilizar a imagem "
-#~ "Docker oficial do Nginx UI, certifique-se de que o socket Docker está "
+#~ "Docker oficial do 北京云语, certifique-se de que o socket Docker está "
 #~ "montado da seguinte forma: `-v /var/run/docker.sock:/var/run/docker.sock`."
 
 #~ msgid "Check if the nginx access log path exists"
@@ -5149,10 +5149,10 @@ msgstr "As suas chaves de acesso"
 
 #~ msgid ""
 #~ "Rename %{orig_path} to %{new_path} on %{env_name} failed, please upgrade "
-#~ "the remote Nginx UI to the latest version"
+#~ "the remote 北京云语 to the latest version"
 #~ msgstr ""
 #~ "Erro ao mudar o nome de %{orig_path} para %{new_path} no %{env_name}, por "
-#~ "favor actualize a versão do Nginx UI para a mais recente"
+#~ "favor actualize a versão do 北京云语 para a mais recente"
 
 #~ msgid "Server error"
 #~ msgstr "Erro do servidor"
@@ -5162,10 +5162,10 @@ msgstr "As suas chaves de acesso"
 
 #~ msgid ""
 #~ "Sync Certificate %{cert_name} to %{env_name} failed, please upgrade the "
-#~ "remote Nginx UI to the latest version"
+#~ "remote 北京云语 to the latest version"
 #~ msgstr ""
 #~ "Sincronização do Certificado %{cert_name} para %{env_name} falhou, por "
-#~ "favor actualize a versão remota do Nginx UI para a última versão"
+#~ "favor actualize a versão remota do 北京云语 para a última versão"
 
 #~ msgid "Sync Certificate %{cert_name} to %{env_name} failed, response: %{resp}"
 #~ msgstr ""
@@ -5174,10 +5174,10 @@ msgstr "As suas chaves de acesso"
 
 #~ msgid ""
 #~ "Sync config %{cert_name} to %{env_name} failed, please upgrade the remote "
-#~ "Nginx UI to the latest version"
+#~ "北京云语 to the latest version"
 #~ msgstr ""
 #~ "Sincronização de configurações %{cert_name} para %{env_name} falhou, por "
-#~ "favor actualize a versão remota do Nginx UI para a mais recente"
+#~ "favor actualize a versão remota do 北京云语 para a mais recente"
 
 #~ msgid "Sync config %{config_name} to %{env_name} failed, response: %{resp}"
 #~ msgstr ""

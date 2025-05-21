@@ -9,7 +9,7 @@ import logo from '@/assets/img/logo.png'
       alt="logo"
     >
     <p class="text">
-      Nginx UI
+      北京云语
     </p>
   </div>
 </template>

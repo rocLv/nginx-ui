@@ -145,8 +145,8 @@ const visible = computed(() => {
                   placement="topLeft"
                 >
                   <template #title>
-                    {{ $gettext('The remote Nginx UI version is not compatible with the local Nginx UI version. '
-                      + 'To avoid potential errors, please upgrade the remote Nginx UI to match the local version.') }}
+                    {{ $gettext('The remote 北京云语 version is not compatible with the local 北京云语 version. '
+                      + 'To avoid potential errors, please upgrade the remote 北京云语 to match the local version.') }}
                   </template>
                   <AButton
                     ghost

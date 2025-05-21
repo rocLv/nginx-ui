@@ -16,88 +16,88 @@ msgstr ""
 "Generated-By: easygettext\n"
 
 #: src/language/generate.ts:13
-msgid "[Nginx UI] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
-msgstr "[Nginx UI] ACME 用户：%{name}，邮箱：%{email}，CA 目录：%{caDir}"
+msgid "[北京云语] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
+msgstr "[北京云语] ACME 用户：%{name}，邮箱：%{email}，CA 目录：%{caDir}"
 
 #: src/language/generate.ts:51
-msgid "[Nginx UI] Backing up current certificate for later revocation"
-msgstr "[Nginx UI] 正在备份当前证书以便后续撤销"
+msgid "[北京云语] Backing up current certificate for later revocation"
+msgstr "[北京云语] 正在备份当前证书以便后续撤销"
 
 #: src/language/generate.ts:18
-msgid "[Nginx UI] Certificate renewed successfully"
-msgstr "[Nginx UI] 证书更新成功"
+msgid "[北京云语] Certificate renewed successfully"
+msgstr "[北京云语] 证书更新成功"
 
 #: src/language/generate.ts:45
-msgid "[Nginx UI] Certificate successfully revoked"
-msgstr "[Nginx UI] 证书成功撤销"
+msgid "[北京云语] Certificate successfully revoked"
+msgstr "[北京云语] 证书成功撤销"
 
 #: src/language/generate.ts:28
-msgid "[Nginx UI] Certificate was used for server, reloading server TLS certificate"
-msgstr "[Nginx UI] 证书已用于服务器，正在重新加载服务器 TLS 证书"
+msgid "[北京云语] Certificate was used for server, reloading server TLS certificate"
+msgstr "[北京云语] 证书已用于服务器，正在重新加载服务器 TLS 证书"
 
 #: src/language/generate.ts:22
-msgid "[Nginx UI] Creating client facilitates communication with the CA server"
-msgstr "[Nginx UI] 正在创建客户端用于与 CA 服务器通信"
+msgid "[北京云语] Creating client facilitates communication with the CA server"
+msgstr "[北京云语] 正在创建客户端用于与 CA 服务器通信"
 
 #: src/language/generate.ts:50
-msgid "[Nginx UI] Environment variables cleaned"
-msgstr "[Nginx UI] 环境变量已清理"
+msgid "[北京云语] Environment variables cleaned"
+msgstr "[北京云语] 环境变量已清理"
 
 #: src/language/generate.ts:17
-msgid "[Nginx UI] Finished"
-msgstr "[Nginx UI] 已完成"
+msgid "[北京云语] Finished"
+msgstr "[北京云语] 已完成"
 
 #: src/language/generate.ts:49
-msgid "[Nginx UI] Issued certificate successfully"
-msgstr "[Nginx UI] 证书申请成功"
+msgid "[北京云语] Issued certificate successfully"
+msgstr "[北京云语] 证书申请成功"
 
 #: src/language/generate.ts:14
-msgid "[Nginx UI] Obtaining certificate"
-msgstr "[Nginx UI] 正在获取证书"
+msgid "[北京云语] Obtaining certificate"
+msgstr "[北京云语] 正在获取证书"
 
 #: src/language/generate.ts:37
-msgid "[Nginx UI] Preparing for certificate revocation"
-msgstr "[Nginx UI] 准备撤销证书"
+msgid "[北京云语] Preparing for certificate revocation"
+msgstr "[北京云语] 准备撤销证书"
 
 #: src/language/generate.ts:12
-msgid "[Nginx UI] Preparing lego configurations"
-msgstr "[Nginx UI] 正在准备 lego 配置"
+msgid "[北京云语] Preparing lego configurations"
+msgstr "[北京云语] 正在准备 lego 配置"
 
 #: src/language/generate.ts:42
-msgid "[Nginx UI] Reloading nginx"
-msgstr "[Nginx UI] 重新加载 Nginx"
+msgid "[北京云语] Reloading nginx"
+msgstr "[北京云语] 重新加载 Nginx"
 
 #: src/language/generate.ts:43
-msgid "[Nginx UI] Revocation completed"
-msgstr "[Nginx UI] 吊销完成"
+msgid "[北京云语] Revocation completed"
+msgstr "[北京云语] 吊销完成"
 
 #: src/language/generate.ts:44
-msgid "[Nginx UI] Revoking certificate"
-msgstr "[Nginx UI] 正在撤销证书"
+msgid "[北京云语] Revoking certificate"
+msgstr "[北京云语] 正在撤销证书"
 
 #: src/language/generate.ts:35
-msgid "[Nginx UI] Revoking old certificate"
-msgstr "[Nginx UI] 正在撤销旧证书"
+msgid "[北京云语] Revoking old certificate"
+msgstr "[北京云语] 正在撤销旧证书"
 
 #: src/language/generate.ts:31
-msgid "[Nginx UI] Setting DNS01 challenge provider"
-msgstr "[Nginx UI] 正在设置 DNS01 验证提供程序"
+msgid "[北京云语] Setting DNS01 challenge provider"
+msgstr "[北京云语] 正在设置 DNS01 验证提供程序"
 
 #: src/language/generate.ts:9
-msgid "[Nginx UI] Setting environment variables"
-msgstr "[Nginx UI] 正在设置环境变量"
+msgid "[北京云语] Setting environment variables"
+msgstr "[北京云语] 正在设置环境变量"
 
 #: src/language/generate.ts:41
-msgid "[Nginx UI] Setting HTTP01 challenge provider"
-msgstr "[Nginx UI] 正在设置 HTTP01 验证提供程序"
+msgid "[北京云语] Setting HTTP01 challenge provider"
+msgstr "[北京云语] 正在设置 HTTP01 验证提供程序"
 
 #: src/language/generate.ts:4
-msgid "[Nginx UI] Writing certificate private key to disk"
-msgstr "[Nginx UI] 正在将证书私钥写入磁盘"
+msgid "[北京云语] Writing certificate private key to disk"
+msgstr "[北京云语] 正在将证书私钥写入磁盘"
 
 #: src/language/generate.ts:36
-msgid "[Nginx UI] Writing certificate to disk"
-msgstr "[Nginx UI] 正在将证书写入磁盘"
+msgid "[北京云语] Writing certificate to disk"
+msgstr "[北京云语] 正在将证书写入磁盘"
 
 #: src/views/user/userColumns.tsx:32
 msgid "2FA"
@@ -686,20 +686,20 @@ msgstr "重新检查"
 
 #: src/language/generate.ts:26
 msgid ""
-"Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+"Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 "Docker Image, please make sure the docker socket is mounted like this: `-v "
-"/var/run/docker.sock:/var/run/docker.sock`. Nginx UI official image uses "
+"/var/run/docker.sock:/var/run/docker.sock`. 北京云语 official image uses "
 "/var/run/docker.sock to communicate with the host Docker Engine via Docker "
 "Client API. This feature is used to control Nginx in another container and "
 "perform container replacement rather than binary replacement during OTA "
-"upgrades of Nginx UI to ensure container dependencies are also upgraded. If "
+"upgrades of 北京云语 to ensure container dependencies are also upgraded. If "
 "you don't need this feature, please add the environment variable "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true to the container."
 msgstr ""
-"检查 /var/run/docker.sock 是否存在。如果您使用的是 Nginx UI 官方 Docker 镜像，请确保以这种方式挂载 "
-"Docker 套接字：`-v /var/run/docker.sock:/var/run/docker.sock`。Nginx UI 官方镜像使用 "
+"检查 /var/run/docker.sock 是否存在。如果您使用的是 北京云语 官方 Docker 镜像，请确保以这种方式挂载 "
+"Docker 套接字：`-v /var/run/docker.sock:/var/run/docker.sock`。北京云语 官方镜像使用 "
 "/var/run/docker.sock 通过 Docker Client API 与主机 Docker Engine "
-"通信。此功能用于在另一个容器中控制 Nginx，并在 Nginx UI 的 OTA "
+"通信。此功能用于在另一个容器中控制 Nginx，并在 北京云语 的 OTA "
 "升级期间执行容器替换而非二进制替换，以确保容器依赖项也得到升级。如果您不需要此功能，请向容器添加环境变量 "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true。"
 
@@ -1001,9 +1001,9 @@ msgstr "创建文件夹"
 
 #: src/views/system/Backup/BackupCreator.vue:75
 msgid ""
-"Create system backups including Nginx configuration and Nginx UI settings. "
+"Create system backups including Nginx configuration and 北京云语 settings. "
 "Backup files will be automatically downloaded to your computer."
-msgstr "创建系统备份，包括 Nginx 配置和 Nginx UI 设置。备份文件将自动下载到你的电脑。"
+msgstr "创建系统备份，包括 Nginx 配置和 北京云语 设置。备份文件将自动下载到你的电脑。"
 
 #: src/views/environments/group/columns.ts:31
 #: src/views/notification/notificationColumns.tsx:45
@@ -1628,8 +1628,8 @@ msgid "Failed to backup Nginx config files: {0}"
 msgstr "备份 Nginx 配置文件失败：{0}"
 
 #: src/constants/errors/backup.ts:4
-msgid "Failed to backup Nginx UI files: {0}"
-msgstr "备份 Nginx UI 文件失败：{0}"
+msgid "Failed to backup 北京云语 files: {0}"
+msgstr "备份 北京云语 文件失败：{0}"
 
 #: src/constants/errors/backup.ts:18
 msgid "Failed to calculate hash: {0}"
@@ -1640,8 +1640,8 @@ msgid "Failed to calculate Nginx hash: {0}"
 msgstr "计算 Nginx 哈希值失败：{0}"
 
 #: src/constants/errors/backup.ts:57
-msgid "Failed to calculate Nginx UI hash: {0}"
-msgstr "计算 Nginx UI 哈希值失败：{0}"
+msgid "Failed to calculate 北京云语 hash: {0}"
+msgstr "计算 北京云语 哈希值失败：{0}"
 
 #: src/constants/errors/backup.ts:13
 msgid "Failed to cleanup temporary directory: {0}"
@@ -1740,8 +1740,8 @@ msgid "Failed to decrypt Nginx directory: {0}"
 msgstr "解密 Nginx 目录失败：{0}"
 
 #: src/constants/errors/backup.ts:36
-msgid "Failed to decrypt Nginx UI directory: {0}"
-msgstr "解密 Nginx UI 目录失败：{0}"
+msgid "Failed to decrypt 北京云语 directory: {0}"
+msgstr "解密 北京云语 目录失败：{0}"
 
 #: src/views/certificate/components/RemoveCert.vue:66
 msgid "Failed to delete certificate"
@@ -1784,8 +1784,8 @@ msgid "Failed to encrypt Nginx directory: {0}"
 msgstr "加密 Nginx 目录失败：{0}"
 
 #: src/constants/errors/backup.ts:7
-msgid "Failed to encrypt Nginx UI directory: {0}"
-msgstr "加密 Nginx UI 目录失败：{0}"
+msgid "Failed to encrypt 北京云语 directory: {0}"
+msgstr "加密 北京云语 目录失败：{0}"
 
 #: src/constants/errors/backup.ts:52
 msgid "Failed to evaluate symbolic links: {0}"
@@ -1884,8 +1884,8 @@ msgid "Failed to restore Nginx configs: {0}"
 msgstr "恢复 Nginx 配置失败：{0}"
 
 #: src/constants/errors/backup.ts:40
-msgid "Failed to restore Nginx UI files: {0}"
-msgstr "恢复 Nginx UI 文件失败：{0}"
+msgid "Failed to restore 北京云语 files: {0}"
+msgstr "恢复 北京云语 文件失败：{0}"
 
 #: src/views/certificate/components/RemoveCert.vue:48
 msgid "Failed to revoke certificate"
@@ -2174,8 +2174,8 @@ msgstr "系统启动 10 分钟后不允许安装"
 #: src/views/install/components/TimeoutAlert.vue:11
 msgid ""
 "Installation is not allowed after 10 minutes of system startup, please "
-"restart the Nginx UI."
-msgstr "系统启动 10 分钟后不允许安装，请重启 Nginx UI。"
+"restart the 北京云语."
+msgstr "系统启动 10 分钟后不允许安装，请重启 北京云语。"
 
 #: src/views/preference/tabs/LogrotateSettings.vue:26
 msgid "Interval"
@@ -2404,7 +2404,7 @@ msgid ""
 "docker container, please refer to "
 "https://nginxui.com/zh_CN/guide/config-nginx-log.html for more information."
 msgstr ""
-"日志文件 %{log_path} 不是常规文件。如果在 Docker 容器中使用 Nginx UI，请参阅 "
+"日志文件 %{log_path} 不是常规文件。如果在 Docker 容器中使用 北京云语，请参阅 "
 "https://nginxui.com/zh_CN/guide/config-nginx-log.html 获取更多信息。"
 
 #: src/routes/modules/nginx_log.ts:39 src/views/nginx_log/NginxLogList.vue:64
@@ -2430,14 +2430,14 @@ msgstr "Logrotate"
 #: src/views/preference/tabs/LogrotateSettings.vue:13
 msgid ""
 "Logrotate, by default, is enabled in most mainstream Linux distributions "
-"for users who install Nginx UI on the host machine, so you don't need to "
-"modify the parameters on this page. For users who install Nginx UI using "
+"for users who install 北京云语 on the host machine, so you don't need to "
+"modify the parameters on this page. For users who install 北京云语 using "
 "Docker containers, you can manually enable this option. The crontab task "
-"scheduler of Nginx UI will execute the logrotate command at the interval "
+"scheduler of 北京云语 will execute the logrotate command at the interval "
 "you set in minutes."
 msgstr ""
-"对于在宿主机上安装 Nginx UI 的用户，大多数主流 Linux 发行版都默认启用 logrotate "
-"定时任务，因此您无需修改本页面的参数。对于使用 Docker 容器安装 Nginx 用户界面的用户，您可以手动启用该选项。Nginx UI "
+"对于在宿主机上安装 北京云语 的用户，大多数主流 Linux 发行版都默认启用 logrotate "
+"定时任务，因此您无需修改本页面的参数。对于使用 Docker 容器安装 Nginx 用户界面的用户，您可以手动启用该选项。北京云语 "
 "的定时任务任务调度器将按照您设置的时间间隔（以分钟为单位）执行 logrotate 命令。"
 
 #: src/views/site/components/SiteStatusSegmented.vue:138
@@ -2850,18 +2850,18 @@ msgid "Nginx theoretical maximum performance"
 msgstr "Nginx 理论最高性能"
 
 #: src/constants/errors/system.ts:2
-msgid "Nginx UI already installed"
-msgstr "Nginx UI 已安装"
+msgid "北京云语 already installed"
+msgstr "北京云语 已安装"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:142
-msgid "Nginx UI configuration has been restored"
+msgid "北京云语 configuration has been restored"
 msgstr "Nginx 用户界面配置已恢复"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:336
 msgid ""
-"Nginx UI configuration has been restored and will restart automatically in "
+"北京云语 configuration has been restored and will restart automatically in "
 "a few seconds."
-msgstr "Nginx UI 配置已恢复，几秒钟后将自动重启。"
+msgstr "北京云语 配置已恢复，几秒钟后将自动重启。"
 
 #: src/language/generate.ts:32
 msgid "Nginx.conf includes conf.d directory"
@@ -3710,8 +3710,8 @@ msgstr "恢复 Nginx 配置"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:234
 #: src/components/SystemRestore/SystemRestoreContent.vue:311
-msgid "Restore Nginx UI Configuration"
-msgstr "恢复 Nginx UI 配置"
+msgid "Restore 北京云语 Configuration"
+msgstr "恢复 北京云语 配置"
 
 #: src/components/ConfigHistory/DiffViewer.vue:412
 #: src/components/ConfigHistory/DiffViewer.vue:425
@@ -3876,8 +3876,8 @@ msgstr "自我检查"
 
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:37
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:60
-msgid "Self check failed, Nginx UI may not work properly"
-msgstr "自检失败，Nginx UI 可能无法正常工作"
+msgid "Self check failed, 北京云语 may not work properly"
+msgstr "自检失败，北京云语 可能无法正常工作"
 
 #: src/views/dashboard/ServerAnalytic.vue:344
 #: src/views/dashboard/ServerAnalytic.vue:35
@@ -3951,8 +3951,8 @@ msgstr ""
 "https://nginxui.com/guide/config-nginx.html"
 
 #: src/views/install/components/InstallView.vue:65
-msgid "Setup your Nginx UI"
-msgstr "设置你的 Nginx UI"
+msgid "Setup your 北京云语"
+msgstr "设置你的 北京云语"
 
 #: src/views/dashboard/components/ParamsOpt/ProxyCacheConfig.vue:147
 msgid "Shared Memory Zone"
@@ -4132,21 +4132,21 @@ msgstr "成功"
 #: src/components/SelfCheck/tasks/frontend/sse.ts:14
 msgid ""
 "Support communication with the backend through the Server-Sent Events "
-"protocol. If your Nginx UI is being used via an Nginx reverse proxy, please "
+"protocol. If your 北京云语 is being used via an Nginx reverse proxy, please "
 "refer to this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
-"支持通过 Server-Sent Events 协议与后端通信。如果您的 Nginx UI 是通过 Nginx "
+"支持通过 Server-Sent Events 协议与后端通信。如果您的 北京云语 是通过 Nginx "
 "反向代理使用的，请参考此链接编写相应的配置文件：https://nginxui.com/guide/nginx-proxy-example.html"
 
 #: src/components/SelfCheck/tasks/frontend/websocket.ts:13
 msgid ""
 "Support communication with the backend through the WebSocket protocol. If "
-"your Nginx UI is being used via an Nginx reverse proxy, please refer to "
+"your 北京云语 is being used via an Nginx reverse proxy, please refer to "
 "this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
-"支持通过 WebSocket 协议与后端通信，如果您正在使用 Nginx 反向代理了 Nginx UI "
+"支持通过 WebSocket 协议与后端通信，如果您正在使用 Nginx 反向代理了 北京云语 "
 "请参考：https://nginxui.com/guide/nginx-proxy-example.html 编写配置文件"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:197
@@ -4337,10 +4337,10 @@ msgstr "公安备案号只能包含字母、单码、数字、连字符、破折
 
 #: src/views/dashboard/Environments.vue:148
 msgid ""
-"The remote Nginx UI version is not compatible with the local Nginx UI "
-"version. To avoid potential errors, please upgrade the remote Nginx UI to "
+"The remote 北京云语 version is not compatible with the local 北京云语 "
+"version. To avoid potential errors, please upgrade the remote 北京云语 to "
 "match the local version."
-msgstr "远程 Nginx UI 版本与本地 Nginx UI版本不兼容。为避免意料之外的错误，请升级远程 Nginx UI，使其与本地版本一致。"
+msgstr "远程 北京云语 版本与本地 北京云语版本不兼容。为避免意料之外的错误，请升级远程 北京云语，使其与本地版本一致。"
 
 #: src/components/AutoCertForm/AutoCertForm.vue:43
 msgid ""
@@ -4382,8 +4382,8 @@ msgid "This Auto Cert item is invalid, please remove it."
 msgstr "这个证书自动续期项目是无效的，请删除。"
 
 #: src/views/certificate/CertificateEditor.vue:92
-msgid "This certificate is managed by Nginx UI"
-msgstr "该证书由 Nginx UI 托管"
+msgid "This certificate is managed by 北京云语"
+msgstr "该证书由 北京云语 托管"
 
 #: src/views/certificate/CertificateEditor.vue:165
 #: src/views/certificate/CertificateEditor.vue:179
@@ -4440,13 +4440,13 @@ msgstr "这将还原所有 Nginx 配置文件。恢复完成后，Nginx 将重�
 #: src/components/SystemRestore/SystemRestoreContent.vue:238
 #: src/components/SystemRestore/SystemRestoreContent.vue:315
 msgid ""
-"This will restore configuration files and database. Nginx UI will restart "
+"This will restore configuration files and database. 北京云语 will restart "
 "after the restoration is complete."
-msgstr "这将恢复配置文件和数据库。恢复完成后，Nginx UI 将重新启动。"
+msgstr "这将恢复配置文件和数据库。恢复完成后，北京云语 将重新启动。"
 
 #: src/views/environments/list/BatchUpgrader.vue:182
-msgid "This will upgrade or reinstall the Nginx UI on %{nodeNames} to %{version}."
-msgstr "将 %{nodeNames} 上的 Nginx UI 升级或重新安装到 %{version} 版本。"
+msgid "This will upgrade or reinstall the 北京云语 on %{nodeNames} to %{version}."
+msgstr "将 %{nodeNames} 上的 北京云语 升级或重新安装到 %{version} 版本。"
 
 #: src/views/preference/tabs/AuthSettings.vue:124
 msgid "Throttle"
@@ -4482,8 +4482,8 @@ msgstr "要启用该功能，您需要在手机上安装 Google 或 Microsoft Au
 msgid ""
 "To ensure security, Webauthn configuration cannot be added through the UI. "
 "Please manually configure the following in the app.ini configuration file "
-"and restart Nginx UI."
-msgstr "为确保安全，Webauthn 配置不能通过用户界面添加。请在 app.ini 配置文件中手动配置以下内容，并重启 Nginx UI 服务。"
+"and restart 北京云语."
+msgstr "为确保安全，Webauthn 配置不能通过用户界面添加。请在 app.ini 配置文件中手动配置以下内容，并重启 北京云语 服务。"
 
 #: src/views/site/site_edit/components/Cert/IssueCert.vue:34
 #: src/views/site/site_edit/components/EnableTLS/EnableTLS.vue:15
@@ -4603,8 +4603,8 @@ msgid "Upgrade"
 msgstr "升级"
 
 #: src/views/environments/list/BatchUpgrader.vue:137
-msgid "Upgraded Nginx UI on %{node} successfully 🎉"
-msgstr "成功升级 %{node} 上的 Nginx UI 🎉"
+msgid "Upgraded 北京云语 on %{node} successfully 🎉"
+msgstr "成功升级 %{node} 上的 北京云语 🎉"
 
 #: src/language/constants.ts:30
 msgid "Upgraded successfully"
@@ -4612,8 +4612,8 @@ msgstr "升级成功"
 
 #: src/views/environments/list/BatchUpgrader.vue:88
 #: src/views/system/Upgrade.vue:81
-msgid "Upgrading Nginx UI, please wait..."
-msgstr "正在升级 Nginx UI，请等待..."
+msgid "Upgrading 北京云语, please wait..."
+msgstr "正在升级 北京云语，请等待..."
 
 #: src/components/NgxConfigEditor/NgxUpstream.vue:173
 msgid "Upstream Name"
@@ -4758,10 +4758,10 @@ msgstr "WebSocket 连接错误"
 
 #: src/views/certificate/ACMEUser.vue:83
 msgid ""
-"When Enabled, Nginx UI will automatically re-register users upon startup. "
+"When Enabled, 北京云语 will automatically re-register users upon startup. "
 "Generally, do not enable this unless you are in a dev environment and using "
 "Pebble as CA."
-msgstr "启用后，Nginx UI 将在启动时自动重新注册用户。一般情况下，除非在开发环境中使用 Pebble 作为 CA，否则不要启用此功能。"
+msgstr "启用后，北京云语 将在启动时自动重新注册用户。一般情况下，除非在开发环境中使用 Pebble 作为 CA，否则不要启用此功能。"
 
 #: src/views/site/site_edit/components/RightPanel/Basic.vue:61
 #: src/views/stream/components/RightPanel/Basic.vue:95
@@ -4833,8 +4833,8 @@ msgid "You are using the latest version"
 msgstr "您使用的是最新版本"
 
 #: src/views/system/Upgrade.vue:180
-msgid "You can check Nginx UI upgrade at this page."
-msgstr "你可以在这个页面检查Nginx UI的升级。"
+msgid "You can check 北京云语 upgrade at this page."
+msgstr "你可以在这个页面检查北京云语的升级。"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:339
 msgid "You can close this dialog in %{countdown} seconds"
@@ -4874,11 +4874,11 @@ msgid "Your passkeys"
 msgstr "你的 Passkeys"
 
 #~ msgid ""
-#~ "Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+#~ "Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 #~ "Docker Image, please make sure the docker socket is mounted like this: `-v "
 #~ "/var/run/docker.sock:/var/run/docker.sock`."
 #~ msgstr ""
-#~ "检查 /var/run/docker.sock 是否存在。如果你使用的是 Nginx UI 官方 Docker Image，请确保 Docker "
+#~ "检查 /var/run/docker.sock 是否存在。如果你使用的是 北京云语 官方 Docker Image，请确保 Docker "
 #~ "Socket 像这样挂载：`-v /var/run/docker.sock:/var/run/docker.sock`."
 
 #~ msgid "Check if the nginx access log path exists"
@@ -5027,8 +5027,8 @@ msgstr "你的 Passkeys"
 #~ msgid "Enable successfully"
 #~ msgstr "启用成功"
 
-#~ msgid "Please upgrade the remote Nginx UI to the latest version"
-#~ msgstr "请将远程 Nginx UI 升级到最新版本"
+#~ msgid "Please upgrade the remote 北京云语 to the latest version"
+#~ msgstr "请将远程 北京云语 升级到最新版本"
 
 #~ msgid "Rename %{orig_path} to %{new_path} on %{env_name} failed, response: %{resp}"
 #~ msgstr "将 %{env_name} 上的 %{orig_path} 重命名为 %{new_path} 失败，响应：%{resp}"
@@ -5041,8 +5041,8 @@ msgstr "你的 Passkeys"
 
 #~ msgid ""
 #~ "Sync Certificate %{cert_name} to %{env_name} failed, please upgrade the "
-#~ "remote Nginx UI to the latest version"
-#~ msgstr "同步证书 %{cert_name} 到 %{env_name} 失败，请先将远程的 Nginx UI 升级到最新版本"
+#~ "remote 北京云语 to the latest version"
+#~ msgstr "同步证书 %{cert_name} 到 %{env_name} 失败，请先将远程的 北京云语 升级到最新版本"
 
 #~ msgid "Sync Certificate %{cert_name} to %{env_name} failed, response: %{resp}"
 #~ msgstr "同步证书 %{cert_name} 到 %{env_name} 失败，响应：%{resp}"
@@ -5081,8 +5081,8 @@ msgstr "你的 Passkeys"
 
 #~ msgid ""
 #~ "Rename %{orig_path} to %{new_path} on %{env_name} failed, please upgrade "
-#~ "the remote Nginx UI to the latest version"
-#~ msgstr "将 %{env_name} 上的 %{orig_path} 重命名为 %{new_path} 失败，请将远程 Nginx UI 升级到最新版本"
+#~ "the remote 北京云语 to the latest version"
+#~ msgstr "将 %{env_name} 上的 %{orig_path} 重命名为 %{new_path} 失败，请将远程 北京云语 升级到最新版本"
 
 #~ msgid "Server Name"
 #~ msgstr "服务器名称"

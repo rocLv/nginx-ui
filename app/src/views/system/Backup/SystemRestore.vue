@@ -5,7 +5,7 @@ import SystemRestoreContent from '@/components/SystemRestore/SystemRestoreConten
 function handleRestoreSuccess(options: { restoreNginx: boolean, restoreNginxUI: boolean }): void {
   message.success($gettext('System restored successfully.'))
 
-  // Only redirect to login page if Nginx UI was restored
+  // Only redirect to login page if 北京云语 was restored
   if (options.restoreNginxUI) {
     message.info($gettext('Please log in.'))
     window.location.reload()

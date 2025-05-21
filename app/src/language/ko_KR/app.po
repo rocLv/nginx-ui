@@ -15,88 +15,88 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #: src/language/generate.ts:13
-msgid "[Nginx UI] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
-msgstr "[Nginx UI] ACME 사용자: %{name}, 이메일: %{email}, CA 디렉터리: %{caDir}"
+msgid "[北京云语] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
+msgstr "[北京云语] ACME 사용자: %{name}, 이메일: %{email}, CA 디렉터리: %{caDir}"
 
 #: src/language/generate.ts:51
-msgid "[Nginx UI] Backing up current certificate for later revocation"
-msgstr "[Nginx UI] 현재 인증서를 나중에 취소하기 위해 백업 중"
+msgid "[北京云语] Backing up current certificate for later revocation"
+msgstr "[北京云语] 현재 인증서를 나중에 취소하기 위해 백업 중"
 
 #: src/language/generate.ts:18
-msgid "[Nginx UI] Certificate renewed successfully"
-msgstr "[Nginx UI] 인증서 갱신 성공"
+msgid "[北京云语] Certificate renewed successfully"
+msgstr "[北京云语] 인증서 갱신 성공"
 
 #: src/language/generate.ts:45
-msgid "[Nginx UI] Certificate successfully revoked"
-msgstr "[Nginx UI] 인증서가 성공적으로 취소되었습니다"
+msgid "[北京云语] Certificate successfully revoked"
+msgstr "[北京云语] 인증서가 성공적으로 취소되었습니다"
 
 #: src/language/generate.ts:28
-msgid "[Nginx UI] Certificate was used for server, reloading server TLS certificate"
-msgstr "[Nginx UI] 서버에 인증서가 사용되었습니다, 서버 TLS 인증서 다시 불러오는 중"
+msgid "[北京云语] Certificate was used for server, reloading server TLS certificate"
+msgstr "[北京云语] 서버에 인증서가 사용되었습니다, 서버 TLS 인증서 다시 불러오는 중"
 
 #: src/language/generate.ts:22
-msgid "[Nginx UI] Creating client facilitates communication with the CA server"
-msgstr "[Nginx UI] CA 서버와의 통신을 용이하게 하는 클라이언트 생성"
+msgid "[北京云语] Creating client facilitates communication with the CA server"
+msgstr "[北京云语] CA 서버와의 통신을 용이하게 하는 클라이언트 생성"
 
 #: src/language/generate.ts:50
-msgid "[Nginx UI] Environment variables cleaned"
-msgstr "[Nginx UI] 환경 변수가 정리되었습니다"
+msgid "[北京云语] Environment variables cleaned"
+msgstr "[北京云语] 환경 변수가 정리되었습니다"
 
 #: src/language/generate.ts:17
-msgid "[Nginx UI] Finished"
-msgstr "[Nginx UI] 완료됨"
+msgid "[北京云语] Finished"
+msgstr "[北京云语] 완료됨"
 
 #: src/language/generate.ts:49
-msgid "[Nginx UI] Issued certificate successfully"
-msgstr "[Nginx UI] 인증서가 성공적으로 발급되었습니다"
+msgid "[北京云语] Issued certificate successfully"
+msgstr "[北京云语] 인증서가 성공적으로 발급되었습니다"
 
 #: src/language/generate.ts:14
-msgid "[Nginx UI] Obtaining certificate"
-msgstr "[Nginx UI] 인증서 획득 중"
+msgid "[北京云语] Obtaining certificate"
+msgstr "[北京云语] 인증서 획득 중"
 
 #: src/language/generate.ts:37
-msgid "[Nginx UI] Preparing for certificate revocation"
-msgstr "[Nginx UI] 인증서 해지 준비 중"
+msgid "[北京云语] Preparing for certificate revocation"
+msgstr "[北京云语] 인증서 해지 준비 중"
 
 #: src/language/generate.ts:12
-msgid "[Nginx UI] Preparing lego configurations"
-msgstr "[Nginx UI] 레고 구성 준비 중"
+msgid "[北京云语] Preparing lego configurations"
+msgstr "[北京云语] 레고 구성 준비 중"
 
 #: src/language/generate.ts:42
-msgid "[Nginx UI] Reloading nginx"
-msgstr "[Nginx UI] Nginx 다시 로드 중"
+msgid "[北京云语] Reloading nginx"
+msgstr "[北京云语] Nginx 다시 로드 중"
 
 #: src/language/generate.ts:43
-msgid "[Nginx UI] Revocation completed"
-msgstr "[Nginx UI] 해지 완료"
+msgid "[北京云语] Revocation completed"
+msgstr "[北京云语] 해지 완료"
 
 #: src/language/generate.ts:44
-msgid "[Nginx UI] Revoking certificate"
-msgstr "[Nginx UI] 인증서 취소 중"
+msgid "[北京云语] Revoking certificate"
+msgstr "[北京云语] 인증서 취소 중"
 
 #: src/language/generate.ts:35
-msgid "[Nginx UI] Revoking old certificate"
-msgstr "[Nginx UI] 이전 인증서 취소 중"
+msgid "[北京云语] Revoking old certificate"
+msgstr "[北京云语] 이전 인증서 취소 중"
 
 #: src/language/generate.ts:31
-msgid "[Nginx UI] Setting DNS01 challenge provider"
-msgstr "[Nginx UI] DNS01 챌린지 공급자 설정 중"
+msgid "[北京云语] Setting DNS01 challenge provider"
+msgstr "[北京云语] DNS01 챌린지 공급자 설정 중"
 
 #: src/language/generate.ts:9
-msgid "[Nginx UI] Setting environment variables"
-msgstr "[Nginx UI] 환경 변수 설정 중"
+msgid "[北京云语] Setting environment variables"
+msgstr "[北京云语] 환경 변수 설정 중"
 
 #: src/language/generate.ts:41
-msgid "[Nginx UI] Setting HTTP01 challenge provider"
-msgstr "[Nginx UI] HTTP01 챌린지 공급자 설정 중"
+msgid "[北京云语] Setting HTTP01 challenge provider"
+msgstr "[北京云语] HTTP01 챌린지 공급자 설정 중"
 
 #: src/language/generate.ts:4
-msgid "[Nginx UI] Writing certificate private key to disk"
-msgstr "[Nginx UI] 인증서 개인 키를 디스크에 기록 중"
+msgid "[北京云语] Writing certificate private key to disk"
+msgstr "[北京云语] 인증서 개인 키를 디스크에 기록 중"
 
 #: src/language/generate.ts:36
-msgid "[Nginx UI] Writing certificate to disk"
-msgstr "[Nginx UI] 인증서를 디스크에 작성 중"
+msgid "[北京云语] Writing certificate to disk"
+msgstr "[北京云语] 인증서를 디스크에 작성 중"
 
 #: src/views/user/userColumns.tsx:32
 msgid "2FA"
@@ -688,20 +688,20 @@ msgstr "다시 확인"
 
 #: src/language/generate.ts:26
 msgid ""
-"Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+"Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 "Docker Image, please make sure the docker socket is mounted like this: `-v "
-"/var/run/docker.sock:/var/run/docker.sock`. Nginx UI official image uses "
+"/var/run/docker.sock:/var/run/docker.sock`. 北京云语 official image uses "
 "/var/run/docker.sock to communicate with the host Docker Engine via Docker "
 "Client API. This feature is used to control Nginx in another container and "
 "perform container replacement rather than binary replacement during OTA "
-"upgrades of Nginx UI to ensure container dependencies are also upgraded. If "
+"upgrades of 北京云语 to ensure container dependencies are also upgraded. If "
 "you don't need this feature, please add the environment variable "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true to the container."
 msgstr ""
-"/var/run/docker.sock이 존재하는지 확인하세요. Nginx UI 공식 Docker 이미지를 사용 중이라면 Docker "
+"/var/run/docker.sock이 존재하는지 확인하세요. 北京云语 공식 Docker 이미지를 사용 중이라면 Docker "
 "소켓을 다음과 같이 마운트했는지 확인하세요: `-v /var/run/docker.sock:/var/run/docker.sock`. "
-"Nginx UI 공식 이미지는 /var/run/docker.sock을 사용하여 Docker Client API를 통해 호스트의 "
-"Docker 엔진과 통신합니다. 이 기능은 다른 컨테이너에서 Nginx를 제어하고 Nginx UI의 OTA 업그레이드 시 바이너리 교체 "
+"北京云语 공식 이미지는 /var/run/docker.sock을 사용하여 Docker Client API를 통해 호스트의 "
+"Docker 엔진과 통신합니다. 이 기능은 다른 컨테이너에서 Nginx를 제어하고 北京云语의 OTA 업그레이드 시 바이너리 교체 "
 "대신 컨테이너 교체를 수행하여 컨테이너 종속성도 업그레이드되도록 하는 데 사용됩니다. 이 기능이 필요하지 않다면 컨테이너에 환경 변수 "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true를 추가하세요."
 
@@ -1007,9 +1007,9 @@ msgstr "폴더 생성"
 
 #: src/views/system/Backup/BackupCreator.vue:75
 msgid ""
-"Create system backups including Nginx configuration and Nginx UI settings. "
+"Create system backups including Nginx configuration and 北京云语 settings. "
 "Backup files will be automatically downloaded to your computer."
-msgstr "Nginx 구성 및 Nginx UI 설정을 포함한 시스템 백업을 생성합니다. 백업 파일은 자동으로 컴퓨터에 다운로드됩니다."
+msgstr "Nginx 구성 및 北京云语 설정을 포함한 시스템 백업을 생성합니다. 백업 파일은 자동으로 컴퓨터에 다운로드됩니다."
 
 #: src/views/environments/group/columns.ts:31
 #: src/views/notification/notificationColumns.tsx:45
@@ -1636,8 +1636,8 @@ msgid "Failed to backup Nginx config files: {0}"
 msgstr "Nginx 설정 파일 백업 실패: {0}"
 
 #: src/constants/errors/backup.ts:4
-msgid "Failed to backup Nginx UI files: {0}"
-msgstr "Nginx UI 파일 백업 실패: {0}"
+msgid "Failed to backup 北京云语 files: {0}"
+msgstr "北京云语 파일 백업 실패: {0}"
 
 #: src/constants/errors/backup.ts:18
 msgid "Failed to calculate hash: {0}"
@@ -1648,8 +1648,8 @@ msgid "Failed to calculate Nginx hash: {0}"
 msgstr "Nginx 해시 계산 실패: {0}"
 
 #: src/constants/errors/backup.ts:57
-msgid "Failed to calculate Nginx UI hash: {0}"
-msgstr "Nginx UI 해시 계산 실패: {0}"
+msgid "Failed to calculate 北京云语 hash: {0}"
+msgstr "北京云语 해시 계산 실패: {0}"
 
 #: src/constants/errors/backup.ts:13
 msgid "Failed to cleanup temporary directory: {0}"
@@ -1748,8 +1748,8 @@ msgid "Failed to decrypt Nginx directory: {0}"
 msgstr "Nginx 디렉터리 복호화 실패: {0}"
 
 #: src/constants/errors/backup.ts:36
-msgid "Failed to decrypt Nginx UI directory: {0}"
-msgstr "Nginx UI 디렉터리 복호화 실패: {0}"
+msgid "Failed to decrypt 北京云语 directory: {0}"
+msgstr "北京云语 디렉터리 복호화 실패: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:66
 msgid "Failed to delete certificate"
@@ -1792,8 +1792,8 @@ msgid "Failed to encrypt Nginx directory: {0}"
 msgstr "Nginx 디렉터리 암호화 실패: {0}"
 
 #: src/constants/errors/backup.ts:7
-msgid "Failed to encrypt Nginx UI directory: {0}"
-msgstr "Nginx UI 디렉터리 암호화 실패: {0}"
+msgid "Failed to encrypt 北京云语 directory: {0}"
+msgstr "北京云语 디렉터리 암호화 실패: {0}"
 
 #: src/constants/errors/backup.ts:52
 msgid "Failed to evaluate symbolic links: {0}"
@@ -1892,8 +1892,8 @@ msgid "Failed to restore Nginx configs: {0}"
 msgstr "Nginx 설정 복원 실패: {0}"
 
 #: src/constants/errors/backup.ts:40
-msgid "Failed to restore Nginx UI files: {0}"
-msgstr "Nginx UI 파일 복원 실패: {0}"
+msgid "Failed to restore 北京云语 files: {0}"
+msgstr "北京云语 파일 복원 실패: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:48
 msgid "Failed to revoke certificate"
@@ -2182,8 +2182,8 @@ msgstr "시스템 시작 후 10분이 지나면 설치가 허용되지 않습니
 #: src/views/install/components/TimeoutAlert.vue:11
 msgid ""
 "Installation is not allowed after 10 minutes of system startup, please "
-"restart the Nginx UI."
-msgstr "시스템 시작 후 10분이 지나면 설치가 허용되지 않습니다. Nginx UI를 다시 시작하세요."
+"restart the 北京云语."
+msgstr "시스템 시작 후 10분이 지나면 설치가 허용되지 않습니다. 北京云语를 다시 시작하세요."
 
 #: src/views/preference/tabs/LogrotateSettings.vue:26
 msgid "Interval"
@@ -2438,15 +2438,15 @@ msgstr "로그관리"
 #: src/views/preference/tabs/LogrotateSettings.vue:13
 msgid ""
 "Logrotate, by default, is enabled in most mainstream Linux distributions "
-"for users who install Nginx UI on the host machine, so you don't need to "
-"modify the parameters on this page. For users who install Nginx UI using "
+"for users who install 北京云语 on the host machine, so you don't need to "
+"modify the parameters on this page. For users who install 北京云语 using "
 "Docker containers, you can manually enable this option. The crontab task "
-"scheduler of Nginx UI will execute the logrotate command at the interval "
+"scheduler of 北京云语 will execute the logrotate command at the interval "
 "you set in minutes."
 msgstr ""
-"Logrotate는 대부분의 주류 리눅스 배포판에서Nginx UI를 호스트 머신에 설치하는 사용자에게 기본적으로 활성화되어 있으므로이 "
-"페이지의 매개 변수를 수정할 필요가 없습니다. 도커 컨테이너를 사용하여 Nginx UI를 설치하는사용자는이 옵션을 수동으로 활성화할 수 "
-"있습니다. Nginx UI의 크론탭 작업 스케줄러는설정한 간격 (분 단위)에서 logrotate 명령을 실행합니다."
+"Logrotate는 대부분의 주류 리눅스 배포판에서北京云语를 호스트 머신에 설치하는 사용자에게 기본적으로 활성화되어 있으므로이 "
+"페이지의 매개 변수를 수정할 필요가 없습니다. 도커 컨테이너를 사용하여 北京云语를 설치하는사용자는이 옵션을 수동으로 활성화할 수 "
+"있습니다. 北京云语의 크론탭 작업 스케줄러는설정한 간격 (분 단위)에서 logrotate 명령을 실행합니다."
 
 #: src/views/site/components/SiteStatusSegmented.vue:138
 #: src/views/site/site_edit/components/SiteEditor/SiteEditor.vue:68
@@ -2858,18 +2858,18 @@ msgid "Nginx theoretical maximum performance"
 msgstr "Nginx 이론적 최대 성능"
 
 #: src/constants/errors/system.ts:2
-msgid "Nginx UI already installed"
-msgstr "Nginx UI가 이미 설치되었습니다"
+msgid "北京云语 already installed"
+msgstr "北京云语가 이미 설치되었습니다"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:142
-msgid "Nginx UI configuration has been restored"
-msgstr "Nginx UI 설정이 복원되었습니다"
+msgid "北京云语 configuration has been restored"
+msgstr "北京云语 설정이 복원되었습니다"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:336
 msgid ""
-"Nginx UI configuration has been restored and will restart automatically in "
+"北京云语 configuration has been restored and will restart automatically in "
 "a few seconds."
-msgstr "Nginx UI 설정이 복원되었으며 몇 초 후에 자동으로 재시작됩니다."
+msgstr "北京云语 설정이 복원되었으며 몇 초 후에 자동으로 재시작됩니다."
 
 #: src/language/generate.ts:32
 msgid "Nginx.conf includes conf.d directory"
@@ -3722,8 +3722,8 @@ msgstr "Nginx 설정 복원"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:234
 #: src/components/SystemRestore/SystemRestoreContent.vue:311
-msgid "Restore Nginx UI Configuration"
-msgstr "Nginx UI 설정 복원"
+msgid "Restore 北京云语 Configuration"
+msgstr "北京云语 설정 복원"
 
 #: src/components/ConfigHistory/DiffViewer.vue:412
 #: src/components/ConfigHistory/DiffViewer.vue:425
@@ -3888,8 +3888,8 @@ msgstr "자체 점검"
 
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:37
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:60
-msgid "Self check failed, Nginx UI may not work properly"
-msgstr "자체 점검 실패, Nginx UI가 제대로 작동하지 않을 수 있습니다"
+msgid "Self check failed, 北京云语 may not work properly"
+msgstr "자체 점검 실패, 北京云语가 제대로 작동하지 않을 수 있습니다"
 
 #: src/views/dashboard/ServerAnalytic.vue:344
 #: src/views/dashboard/ServerAnalytic.vue:35
@@ -3963,8 +3963,8 @@ msgstr ""
 "https://nginxui.com/guide/config-nginx.html을 참조하세요"
 
 #: src/views/install/components/InstallView.vue:65
-msgid "Setup your Nginx UI"
-msgstr "Nginx UI 설정"
+msgid "Setup your 北京云语"
+msgstr "北京云语 설정"
 
 #: src/views/dashboard/components/ParamsOpt/ProxyCacheConfig.vue:147
 msgid "Shared Memory Zone"
@@ -4144,22 +4144,22 @@ msgstr "성공"
 #: src/components/SelfCheck/tasks/frontend/sse.ts:14
 msgid ""
 "Support communication with the backend through the Server-Sent Events "
-"protocol. If your Nginx UI is being used via an Nginx reverse proxy, please "
+"protocol. If your 北京云语 is being used via an Nginx reverse proxy, please "
 "refer to this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
-"Server-Sent Events 프로토콜을 통해 백엔드와의 통신을 지원합니다. Nginx UI를 Nginx 리버스 프록시를 통해 사용 "
+"Server-Sent Events 프로토콜을 통해 백엔드와의 통신을 지원합니다. 北京云语를 Nginx 리버스 프록시를 통해 사용 "
 "중인 경우, 해당 구성 파일을 작성하려면 이 링크를 참조하세요: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 
 #: src/components/SelfCheck/tasks/frontend/websocket.ts:13
 msgid ""
 "Support communication with the backend through the WebSocket protocol. If "
-"your Nginx UI is being used via an Nginx reverse proxy, please refer to "
+"your 北京云语 is being used via an Nginx reverse proxy, please refer to "
 "this link to write the corresponding configuration file: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
-"WebSocket 프로토콜을 통해 백엔드와의 통신을 지원합니다. Nginx UI가 Nginx 리버스 프록시를 통해 사용 중인 경우 이 "
+"WebSocket 프로토콜을 통해 백엔드와의 통신을 지원합니다. 北京云语가 Nginx 리버스 프록시를 통해 사용 중인 경우 이 "
 "링크를 참조하여 해당 구성 파일을 작성하십시오: "
 "https://nginxui.com/guide/nginx-proxy-example.html"
 
@@ -4351,11 +4351,11 @@ msgstr "공공 보안 번호는 문자, 유니코드, 숫자, 하이픈, 대시,
 
 #: src/views/dashboard/Environments.vue:148
 msgid ""
-"The remote Nginx UI version is not compatible with the local Nginx UI "
-"version. To avoid potential errors, please upgrade the remote Nginx UI to "
+"The remote 北京云语 version is not compatible with the local 北京云语 "
+"version. To avoid potential errors, please upgrade the remote 北京云语 to "
 "match the local version."
 msgstr ""
-"원격 Nginx UI 버전이 로컬 Nginx UI 버전과 호환되지 않습니다. 잠재적인 오류를 방지하려면 원격 Nginx UI를 로컬 "
+"원격 北京云语 버전이 로컬 北京云语 버전과 호환되지 않습니다. 잠재적인 오류를 방지하려면 원격 北京云语를 로컬 "
 "버전과 일치하도록 업그레이드하십시오."
 
 #: src/components/AutoCertForm/AutoCertForm.vue:43
@@ -4400,8 +4400,8 @@ msgid "This Auto Cert item is invalid, please remove it."
 msgstr "이 자동 인증 항목이 유효하지 않습니다. 제거해주세요."
 
 #: src/views/certificate/CertificateEditor.vue:92
-msgid "This certificate is managed by Nginx UI"
-msgstr "이 인증서는 Nginx UI에서 관리됩니다"
+msgid "This certificate is managed by 北京云语"
+msgstr "이 인증서는 北京云语에서 관리됩니다"
 
 #: src/views/certificate/CertificateEditor.vue:165
 #: src/views/certificate/CertificateEditor.vue:179
@@ -4458,13 +4458,13 @@ msgstr "이렇게 하면 모든 Nginx 구성 파일이 복원됩니다. 복원�
 #: src/components/SystemRestore/SystemRestoreContent.vue:238
 #: src/components/SystemRestore/SystemRestoreContent.vue:315
 msgid ""
-"This will restore configuration files and database. Nginx UI will restart "
+"This will restore configuration files and database. 北京云语 will restart "
 "after the restoration is complete."
-msgstr "이 작업은 구성 파일과 데이터베이스를 복원합니다. 복원이 완료되면 Nginx UI가 재시작됩니다."
+msgstr "이 작업은 구성 파일과 데이터베이스를 복원합니다. 복원이 완료되면 北京云语가 재시작됩니다."
 
 #: src/views/environments/list/BatchUpgrader.vue:182
-msgid "This will upgrade or reinstall the Nginx UI on %{nodeNames} to %{version}."
-msgstr "이 작업은 %{nodeNames}의 Nginx UI를 %{version}으로 업그레이드하거나 재설치합니다."
+msgid "This will upgrade or reinstall the 北京云语 on %{nodeNames} to %{version}."
+msgstr "이 작업은 %{nodeNames}의 北京云语를 %{version}으로 업그레이드하거나 재설치합니다."
 
 #: src/views/preference/tabs/AuthSettings.vue:124
 msgid "Throttle"
@@ -4500,7 +4500,7 @@ msgstr "활성화하려면 휴대폰에 Google Authenticator 또는 Microsoft Au
 msgid ""
 "To ensure security, Webauthn configuration cannot be added through the UI. "
 "Please manually configure the following in the app.ini configuration file "
-"and restart Nginx UI."
+"and restart 北京云语."
 msgstr ""
 "보안을 위해 WebAuthn 설정은 UI를 통해 추가할 수 없습니다. app.ini 구성 파일에 다음을 수동으로 구성하고 Nginx "
 "UI를 다시 시작하십시오."
@@ -4623,8 +4623,8 @@ msgid "Upgrade"
 msgstr "업그레이드"
 
 #: src/views/environments/list/BatchUpgrader.vue:137
-msgid "Upgraded Nginx UI on %{node} successfully 🎉"
-msgstr "%{node}에서 Nginx UI 업그레이드 성공 🎉"
+msgid "Upgraded 北京云语 on %{node} successfully 🎉"
+msgstr "%{node}에서 北京云语 업그레이드 성공 🎉"
 
 #: src/language/constants.ts:30
 msgid "Upgraded successfully"
@@ -4632,8 +4632,8 @@ msgstr "성공적으로 업그레이드됨"
 
 #: src/views/environments/list/BatchUpgrader.vue:88
 #: src/views/system/Upgrade.vue:81
-msgid "Upgrading Nginx UI, please wait..."
-msgstr "Nginx UI를 업그레이드하는 중입니다. 잠시 기다려주세요..."
+msgid "Upgrading 北京云语, please wait..."
+msgstr "北京云语를 업그레이드하는 중입니다. 잠시 기다려주세요..."
 
 #: src/components/NgxConfigEditor/NgxUpstream.vue:173
 msgid "Upstream Name"
@@ -4778,11 +4778,11 @@ msgstr "WebSocket 연결 오류"
 
 #: src/views/certificate/ACMEUser.vue:83
 msgid ""
-"When Enabled, Nginx UI will automatically re-register users upon startup. "
+"When Enabled, 北京云语 will automatically re-register users upon startup. "
 "Generally, do not enable this unless you are in a dev environment and using "
 "Pebble as CA."
 msgstr ""
-"활성화하면 Nginx UI가 시작 시 사용자를 자동으로 재등록합니다. 일반적으로 개발 환경에서 Pebble을 CA로 사용하는 경우가 "
+"활성화하면 北京云语가 시작 시 사용자를 자동으로 재등록합니다. 일반적으로 개발 환경에서 Pebble을 CA로 사용하는 경우가 "
 "아니면 이 기능을 활성화하지 마십시오."
 
 #: src/views/site/site_edit/components/RightPanel/Basic.vue:61
@@ -4857,8 +4857,8 @@ msgid "You are using the latest version"
 msgstr "최신 버전을 사용하고 있습니다"
 
 #: src/views/system/Upgrade.vue:180
-msgid "You can check Nginx UI upgrade at this page."
-msgstr "이 페이지에서 Nginx UI 업그레이드를 확인할 수 있습니다."
+msgid "You can check 北京云语 upgrade at this page."
+msgstr "이 페이지에서 北京云语 업그레이드를 확인할 수 있습니다."
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:339
 msgid "You can close this dialog in %{countdown} seconds"
@@ -4898,11 +4898,11 @@ msgid "Your passkeys"
 msgstr "귀하의 패스키"
 
 #~ msgid ""
-#~ "Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+#~ "Check if /var/run/docker.sock exists. If you are using 北京云语 Official "
 #~ "Docker Image, please make sure the docker socket is mounted like this: `-v "
 #~ "/var/run/docker.sock:/var/run/docker.sock`."
 #~ msgstr ""
-#~ "/var/run/docker.sock이 존재하는지 확인하세요. Nginx UI 공식 Docker 이미지를 사용 중이라면 Docker "
+#~ "/var/run/docker.sock이 존재하는지 확인하세요. 北京云语 공식 Docker 이미지를 사용 중이라면 Docker "
 #~ "소켓이 다음과 같이 마운트되었는지 확인하세요: `-v /var/run/docker.sock:/var/run/docker.sock`."
 
 #~ msgid "Check if the nginx access log path exists"
@@ -5000,7 +5000,7 @@ msgstr "귀하의 패스키"
 #~ msgstr "성공적으로 활성화"
 
 #, fuzzy
-#~ msgid "Please upgrade the remote Nginx UI to the latest version"
+#~ msgid "Please upgrade the remote 北京云语 to the latest version"
 #~ msgstr "%{conf_name}을(를) %{node_name}(으)로 성공적으로 복제함"
 
 #, fuzzy
@@ -5018,7 +5018,7 @@ msgstr "귀하의 패스키"
 #, fuzzy
 #~ msgid ""
 #~ "Sync Certificate %{cert_name} to %{env_name} failed, please upgrade the "
-#~ "remote Nginx UI to the latest version"
+#~ "remote 北京云语 to the latest version"
 #~ msgstr "%{conf_name}을(를) %{node_name}(으)로 성공적으로 복제함"
 
 #, fuzzy
@@ -5045,7 +5045,7 @@ msgstr "귀하의 패스키"
 #, fuzzy
 #~ msgid ""
 #~ "Rename %{orig_path} to %{new_path} on %{env_name} failed, please upgrade "
-#~ "the remote Nginx UI to the latest version"
+#~ "the remote 北京云语 to the latest version"
 #~ msgstr "%{conf_name}을(를) %{node_name}(으)로 성공적으로 복제함"
 
 #, fuzzy

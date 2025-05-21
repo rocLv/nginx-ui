@@ -23,47 +23,11 @@ const thisYear = new Date().getFullYear()
         </div>
       </div>
     </div>
-    <h2>Nginx UI</h2>
+    <h2>北京云语</h2>
     <p>Yet another WebUI for Nginx</p>
     <p>Version: {{ ver.version }} ({{ ver.total_build || $gettext('Development Mode') }})</p>
-    <div class="mb-2">
-      <GithubButton
-        href="https://github.com/0xJacky/nginx-ui"
-        data-color-scheme="no-preference: light; light: light; dark: dark;"
-        data-size="large"
-        data-show-count="true"
-        aria-label="Star 0xJacky/nginx-ui on GitHub"
-      >
-        Star
-      </GithubButton>
-    </div>
-    <div class="mb-2">
-      <GithubButton
-        href="https://github.com/sponsors/nginxui"
-        data-color-scheme="no-preference: light; light: light; dark: dark;"
-        data-icon="octicon-heart" data-size="large"
-        aria-label="Sponsor @nginxui on GitHub"
-      >
-        Sponsor
-      </GithubButton>
-    </div>
-    <h3>
-      {{ $gettext('Project Team') }}
-    </h3>
-    <p><a href="https://jackyu.cn/">@0xJacky</a> <a href="https://blog.kugeek.com/">@Hintay</a> <a href="https://github.com/akinoccc">@Akino</a></p>
-    <h3>
-      {{ $gettext('Build with') }}
-    </h3>
-    <p>❤️</p>
-    <p>Go</p>
-    <p>Gin</p>
-    <p>Vue3 + Vite + TypeScript</p>
-    <p>Websocket</p>
-    <h3>
-      {{ $gettext('License') }}
-    </h3>
-    <p>GNU General Public License v3.0</p>
-    <p>Copyright © 2021 - {{ thisYear }} Nginx UI Team</p>
+   
+    <p>Copyright © 2021 - {{ thisYear }} 北京云语 Team</p>
   </ACard>
 </template>
 
