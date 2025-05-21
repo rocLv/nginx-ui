@@ -5,7 +5,6 @@ node_modules
 .pnpm-store
 app.ini
 app.*.ini
-dist
 *.exe
 *.po~
 nginx-ui
